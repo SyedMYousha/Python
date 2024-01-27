@@ -1,0 +1,4 @@
+perform the following operations using functions:
+1_ Calculate the factorial of a given number.
+2_ Multiply two numbers and return the result.
+3_ Divide two numbers and return the quotient
