@@ -1,0 +1,9 @@
+Assingmnet #04
+1_ Python Program to count unique values inside a list (done)
+2_ With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and 
+   n(both included). and then the program should print the dictionary.
+3_ Python program to display the sum of n numbers using a list (done)
+4_ Python program to print the Fibonacci series
+5_ Write a Python program to read a file line by line and store it in a list. (done)
+6_ Write a Python program to copy the contents of a file to another file (done)
+7_ Write a Python program to create a file where all letters of the English alphabet are listed by a specified number of letters on each line.
