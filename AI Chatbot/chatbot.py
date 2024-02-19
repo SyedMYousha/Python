@@ -22,7 +22,7 @@ def get_response(input_text, responses):
             return None
 
 def main():
-    file_path = "knowledge_base.json"  # path to your JSON file
+    file_path = "knowledge_base.json" 
     responses = load_responses(file_path)
 
     while True:
